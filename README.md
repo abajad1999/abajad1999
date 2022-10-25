@@ -1,6 +1,6 @@
 
-<h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=piyushP7pravin alt=piyushP7pravin> </p>
+<h1> Hi there..! <img src="https://github.com/abajad1999/abajad1999/Hi.gif" width="29px"> </h1>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=abajad1999 alt=Ajay Bajad> </p>
 
 **🔭 I’m currently working on my <a href="https://www.ajaybajad.in/"><b>Portfolio Website</b> </a> and Image Classfication Project**<br>
 **🌱 I’m currently learning Web Development**
@@ -28,7 +28,7 @@
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <br>
 <br>
-![My Github stats](https://github-readme-stats.vercel.app/api?username=piyushP7pravin&show_icons=true&hide_border=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=abajad1999&show_icons=true&hide_border=true)
 <br>
 <br>
 **💬 Ask me about anything, I'll be happy to help!** <br>
@@ -36,19 +36,19 @@
 <br>
 <br> 
   <a href="https://www.linkedin.com/mwlite/in/ajay-bajad-92072719a" target="_blank">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="left" alt="Ajay Bajad | Linkedin" width="24px" src="https://github.com/abajad1999/abajad1999/Linkedin.svg" />
   </a>
   <a href="mailto:abajad1999@gmail.com" target="_blank">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+    <img align="left" alt="Ajay Bajad | Gmail" width="26px" src="https://github.com/abajad1999/abajad1999/Gmail.svg" />
   </a>
   <a href="https://www.linkedin.com/mwlite/in/ajay-bajad-92072719a" target="_blank">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+    <img align="left" alt="Ajay Bajad| Twitter" width="26px" src="https://github.com/abajad1999/abajad1999/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/ajay_bajad_ab/" target="_blank">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"  />
+    <img align="left" alt="Ajay Bajad | Instagram" width="24px" src="https://github.com/abajad1999/abajad1999/Instagram.svg"  />
   </a>
-  <a href="https://dev.to/piyushp7pravin" target="_blank">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Piyush Pravin's DEV Profile" height="30" width="30">
+  <a href="https://dev.to/" target="_blank">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ajay Bajad's DEV Profile" height="30" width="30">
 </a>
 
 
@@ -56,6 +56,6 @@
 **Visitor Count :**
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/{piyushP7pravin}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{abajad1999}/count.svg) 
 -->
 
