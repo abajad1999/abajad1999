@@ -2,8 +2,8 @@
 <h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=piyushP7pravin alt=piyushP7pravin> </p>
 
-**🔭 I’m currently working on my <a href="https://www.piyushp7pravin.tech/"><b>Portfolio Website</b> </a> and Image Classfication Project**<br>
-**🌱 I’m currently learning Deep Learning**
+**🔭 I’m currently working on my <a href="https://www.ajaybajad.in/"><b>Portfolio Website</b> </a> and Image Classfication Project**<br>
+**🌱 I’m currently learning Web Development**
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
@@ -35,16 +35,16 @@
 **💬 My inbox is always open, Contact me**
 <br>
 <br> 
-  <a href="https://in.linkedin.com/in/piyushp7pravin" target="_blank">
+  <a href="https://www.linkedin.com/mwlite/in/ajay-bajad-92072719a" target="_blank">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:piyushpravin1998@gmail.com" target="_blank">
+  <a href="mailto:abajad1999@gmail.com" target="_blank">
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="https://twitter.com/PiyushP7pravin" target="_blank">
+  <a href="https://www.linkedin.com/mwlite/in/ajay-bajad-92072719a" target="_blank">
     <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/piyushp7pravin/" target="_blank">
+  <a href="https://www.instagram.com/ajay_bajad_ab/" target="_blank">
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"  />
   </a>
   <a href="https://dev.to/piyushp7pravin" target="_blank">
