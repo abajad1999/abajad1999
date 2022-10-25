@@ -36,16 +36,16 @@
 <br>
 <br> 
   <a href="https://www.linkedin.com/mwlite/in/ajay-bajad-92072719a" target="_blank">
-   <img align="left" alt="Ajay Bajad | Linkedin" width="24px" src="https://github.com/abajad1999/abajad1999/Linkedin.svg" />
+   <img align="left" alt="Ajay Bajad | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:abajad1999@gmail.com" target="_blank">
-    <img align="left" alt="Ajay Bajad | Gmail" width="26px" src="https://github.com/abajad1999/abajad1999/Gmail.svg" />
+    <img align="left" alt="Ajay Bajad | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
   <a href="https://www.linkedin.com/mwlite/in/ajay-bajad-92072719a" target="_blank">
-    <img align="left" alt="Ajay Bajad| Twitter" width="26px" src="https://github.com/abajad1999/abajad1999/Twitter.svg" />
+    <img align="left" alt="Ajay Bajad| Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/ajay_bajad_ab/" target="_blank">
-    <img align="left" alt="Ajay Bajad | Instagram" width="24px" src="https://github.com/abajad1999/abajad1999/Instagram.svg"  />
+    <img align="left" alt="Ajay Bajad | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"  />
   </a>
   <a href="https://dev.to/" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ajay Bajad's DEV Profile" height="30" width="30">
