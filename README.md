@@ -1,5 +1,5 @@
 
-<h1> Hi there..! <img src="https://github.com/abajad1999/abajad1999/Hi.gif" width="29px"> </h1>
+<h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=abajad1999 alt=Ajay Bajad> </p>
 
 **🔭 I’m currently working on my <a href="https://www.ajaybajad.in/"><b>Portfolio Website</b> </a> and Image Classfication Project**<br>
