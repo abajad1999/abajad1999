@@ -34,7 +34,7 @@
 **💬 My inbox is always open, Contact me**
 <br>
 <br> 
-  <a href="https://www.linkedin.com/mwlite/in/ajay-bajad" target="_blank">
+  <a href="https://www.linkedin.com/in/ajay-bajad/" target="_blank">
    <img align="left" alt="Ajay Bajad | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:abajad1999@gmail.com" target="_blank">
